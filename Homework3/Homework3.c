@@ -1,5 +1,6 @@
 /* THIS PROGRAM SORTS ARRAY DEMONSTRATION PURPOSES */
 /* GTU RULEZ */
+/* I took 90/100 from this homework*/
 #include<stdio.h>
 #include <math.h>
 #define TRUE 1

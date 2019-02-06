@@ -1,3 +1,4 @@
+/* I took 100/100 from this homework */
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
